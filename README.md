@@ -1,7 +1,7 @@
 # LaunchHacks-Hackaton-ML
-## Project: Sentiment Analysis
+## Project: Sentiment Analysis for Metacritic Game Reviews
 
 ## Team members:
-
+Atila , Brandon Bayquen, Sham 
 ## Description: 
-Machine Learning project for LaunchHacks Hackathon summer 2023
+A Python-based Machine Learning Project for LaunchHacks online hackathon, Summer 2023.
