@@ -62,7 +62,7 @@ def compute_metrics(eval_predictions):
 
 # Next, let's login to your Hugging Face account so you can manage your
 # model repositories. You'll need to add your Hugging Face token as a string arg:
-login("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")
+login()     # <-- Add your write token from Hugging Face as a string here
 
 # Before training our model, you need to define the training arguments
 # and define a Trainer with all the objects you constructed up to this point:
