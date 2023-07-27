@@ -34,7 +34,7 @@ This part of the program consists on a program that will read all dataset ......
 sudo apt install jupyter-notebook
 sudo apt install python3
 ```
-2. After running make, you have to install python requirements `./encoder`
+2. After running make, you have to install python requirements
 * To install the requirements for your machine type:
 ```
 pip install -r requirements.txt
