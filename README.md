@@ -47,3 +47,8 @@ open first_time_installer.ipynb and run it
 3.  The to run the program:
 ```
 python3 server.py
+```
+4.  To use the program:
+```
+Open the page 127.0.0.1:5000 and put a path wait and then run it
+
