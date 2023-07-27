@@ -7,7 +7,7 @@ import pandas as pd
 import re
 import utils
 from utils import *
-from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
+#from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 
 # Read the data:
 df = pd.read_csv('fallout4ratings.csv', lineterminator='\n')
@@ -56,9 +56,9 @@ entries = set(open('words.txt').read().split())
 entries_to_remove(entries, repeated_words)
 repeated_words = (sorted(repeated_words.items(),reverse=True, key=lambda item: item[1]))
 # List with the most repeated words:
-for i in range ( 30 ):
-    print(repeated_words[i] )
+for i in range(30):
+    print(repeated_words[i])
 # Cloud with positive reviews words:
-word_cloud(positive_reviews['Review\r'],'white','Most Used Words')
+word_cloud(positive_reviews['Review\r'],'black','Most Used Words')
 # Show our WordCloud image:
 plt.show()
