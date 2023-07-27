@@ -4,16 +4,20 @@ import pandas as pd
 import csv
 
 user_agent = {'User-agent': 'Mozilla/5.0'}
-path = '/game/pc/cyberpunk-2077/user-reviews?page='
+with open('filename') as f:
+    game_path = f.read()
+path = '/' + game_path + 'user-reviews?page='
 links = []
 i = 1
 #Had to jump pages with no comments, this was done manually
+links.append('/' + game_path + '/user-reviews')
+print(links)
 while (i < 50):
     if (i == 18):
         i+=1
     if (i == 43):
         i+=1
-    links.append('/game/pc/cyberpunk-2077/user-reviews?page=' + str(i))
+    links.append('/' + game_path+ '/user-reviews?page=' + str(i))
     i +=1
 root = 'https://www.metacritic.com'
 website = f'{root}'
