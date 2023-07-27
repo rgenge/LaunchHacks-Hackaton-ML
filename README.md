@@ -6,9 +6,9 @@
 ## Description:
 Machine Learning project for LaunchHacks Hackathon summer 2023
 
-#Introduction
+Introduction:
 
-- TThis consists on a Metacritic game reviews sentiment analyser
+- This consists on a Metacritic game reviews sentiment analyser
 
 
 - The program is divided in 2 parts, Web scrapping and Sentiment analisys
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ```
 open first_time_installer.ipynb and run it
 ```
-3.  The to run the program:
+3.  Then to run the program:
 ```
 python3 server.py
 ```
