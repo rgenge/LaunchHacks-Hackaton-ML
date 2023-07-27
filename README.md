@@ -54,6 +54,4 @@ pip install -r requirements.txt
 python3 server.py
 ```
 4.  To use the program:
-```
-Open the page *127.0.0.1:5000* and put a path wait and then run it
-
+- Open the page *127.0.0.1:5000* and put a path wait and then run it
