@@ -6,12 +6,6 @@
 ## Description:
 Machine Learning project for LaunchHacks Hackathon summer 2023
 
-sudo apt install jupyter-notebook
-
-
-
-# Data compression program using Huffman coding
-
 #Introduction
 
 - TThis consists on a Metacritic game reviews sentiment analyser
