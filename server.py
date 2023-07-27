@@ -25,4 +25,4 @@ def my_link():
   f=codecs.open("sentiment.html", 'r')
   return f
 if __name__ == '__main__':
-  app.run(debug=True)
+  app.run()
