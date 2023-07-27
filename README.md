@@ -37,9 +37,8 @@ sudo apt install python3
 - WINDOWS:
 ```
 pip install jupyter-notebook
+# [To install Python for Windows, go to *https://www.python.org/downloads/*]
 ```
-(To install Python for windows, go to *https://www.python.org/downloads/*)
-
 - MAC:
 [mac instructions here]
   
