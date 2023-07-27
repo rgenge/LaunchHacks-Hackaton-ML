@@ -11,10 +11,10 @@ Machine Learning project for LaunchHacks Hackathon, Summer 2023.
 
 - The program is divided into 2 parts: Web Scrapping and Sentiment Analysis
 #### The web scrapping part involves:
-- 1) Inserting the path of a given game's URL of reviews from Metacritic (e.g. "game/pc/cyberpunk-2077")
-- 2) Web scrapping the URL's pages and getting all available USER REVIEWS from that game into a *.csv* file
+1)  Inserting the path of a given game's URL of reviews from Metacritic (e.g. "game/pc/cyberpunk-2077")
+2)  Web scrapping the URL's pages and getting all available USER REVIEWS from that game into a *.csv* file
 #### The Sentiment analysis involves:
-- 1) Getting all the data, cleaning it, and getting the most repeated words to analyze what people like and dislike about it.
+1)  Getting all the data, cleaning it, and getting the most repeated words to analyze what people like and dislike about it.
 
 ## Web Scrapper
 
@@ -23,7 +23,7 @@ This part of the program consists of a program to get all data from a web page b
 
 ## Sentiment Analysis
 
-This part of the program consists of a program that will read all dataset .....................
+This part of the program consists of a program that will read all of dataset .....................
 
 
 ## How to use it?
