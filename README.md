@@ -49,6 +49,9 @@ pip install jupyter-notebook
 sudo apt update
 sudo apt install python3-pip
 
+# (Confirm pip installation by checking pip version:)
+pip3 --version
+
 # To install the required packages and dependencies:
 pip install -r requirements.txt
 ```
