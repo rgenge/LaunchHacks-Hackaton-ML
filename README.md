@@ -44,22 +44,26 @@ pip install jupyter-notebook
   
 2. After running make, you have to install Python package requirements using a command line (e.g. Your machine's terminal, Anaconda, etc):
 * To install the package requirements and their dependencies for your machine:
+
+- NOTE: IF you're on Linux (or using Ubuntu 18.04 or higher), INSTALL pip first:
 ```
-# NOTE: IF you're on Linux (or using Ubuntu 18.04 or higher), INSTALL pip first:
 sudo apt update
 sudo apt install python3-pip
-
-# (Confirm pip installation by checking pip version:)
+```
+Confirm pip installation by checking the pip version:
+```
 pip3 --version
+```
 
-# To install the required packages and dependencies:
+3.  To install the required packages and dependencies:
+```
 pip install -r requirements.txt
 ```
 * If using Jupyter, to install requirements inside a Jupyter Notebook kernel, open *first_time_installer.ipynb* and run the notebook.
 
-3.  Then to run the program:
+4.  Then to run the program, type the following on your terminal:
 ```
 python3 server.py
 ```
-4.  To use the program:
-- Open the page *127.0.0.1:5000* and put a path wait and then run it
+5.  To use the program:
+- Open the page *127.0.0.1:5000* in your browser, then follow the instructions on the HTML page.
