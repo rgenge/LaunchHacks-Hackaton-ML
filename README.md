@@ -1,11 +1,11 @@
 # LaunchHacks-Hackaton-ML
-## Project: Sentiment Analysis
+## Project: Gaming Review Analysis
 
-## Team members: 
+## Team Members: 
 ### [name here], [name here], Brandon Bayquen
 
 ## Description:
-Machine Learning project for LaunchHacks Hackathon, Summer 2023.
+Python Machine-Learning project for LaunchHacks Hackathon, Summer 2023.
 
 - This consists of a [Metacritic](https://www.metacritic.com/) game-reviews sentiment analyzer
 
@@ -20,8 +20,8 @@ Machine Learning project for LaunchHacks Hackathon, Summer 2023.
 3)  Analyzing the file using data processing (i.e. Pandas, etc.) and machine-learning libraries (i.e. Wordcloud, etc.) to find the most repeated words in the datasets
 4)  Then generating a corresponding "word cloud" image for each split dataset that showcases the most used words in the reviews.
 
-## How to use it?
-1. First you must have Python3 and Jupyter Notebook installed:
+## How To Use Our Program:
+1. First you must have Python3 (v. 3.8 stable build or higher recommended) and Jupyter Notebook installed on your machine:
 
 - LINUX:
 ```
