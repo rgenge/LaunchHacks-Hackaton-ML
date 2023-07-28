@@ -42,7 +42,7 @@ pip install jupyter-notebook
 - MAC:
 [mac instructions here]
   
-2. After running make, you have to install Python requirements using a command line (e.g. Your machine's terminal, Anaconda, etc):
+2. After running make, you have to install Python package requirements using a command line (e.g. Your machine's terminal, Anaconda, etc):
 * To install the package requirements and their dependencies for your machine:
 ```
 pip install -r requirements.txt
