@@ -7,7 +7,7 @@
 ## Description:
 Machine Learning project for LaunchHacks Hackathon, Summer 2023.
 
-- This consists of a Metacritic game-reviews sentiment analyzer
+- This consists of a [Metacritic](https://www.metacritic.com/) game-reviews sentiment analyzer
 
 - The program is divided into 2 parts: Web Scrapping and Sentiment Analysis
 #### The web scrapping part involves:
