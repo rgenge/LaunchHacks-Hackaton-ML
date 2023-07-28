@@ -62,3 +62,4 @@ python3 server.py
 ```
 6.  To use the sentiment analyzer:
 - Open the page *127.0.0.1:5000* in your browser, then follow the instructions on the HTML page.
+- ![Sentiment](https://imgur.com/a/eYSQRQS "Sentiment")
