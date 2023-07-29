@@ -5,8 +5,8 @@
 ### [name here], [name here], Brandon Bayquen
 
 ## Description:
-Python Machine-Learning project for LaunchHacks Hackathon, Summer 2023.
-
+- Python Machine-Learning project for the LaunchHacks Hackathon, July 2023.
+- Understand the positive and negative sentiments of video game reviews from MetaCritic.com!
 - This consists of a [Metacritic](https://www.metacritic.com/) game-reviews sentiment analyzer
 ### Example Output: Word Cloud Showing Most Common Words in *Cyberpunk 2077* Reviews:
 ![Photo3](https://github.com/rgenge/LaunchHacks-Hackaton-ML/blob/1b29d51c4e677e36ec80301236771d40ea360a7c/WordCloudExample.png "Word Cloud Image")
