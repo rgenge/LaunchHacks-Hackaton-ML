@@ -8,7 +8,8 @@
 Python Machine-Learning project for LaunchHacks Hackathon, Summer 2023.
 
 - This consists of a [Metacritic](https://www.metacritic.com/) game-reviews sentiment analyzer
-
+### Example Output: Word Cloud Showing Most Common Words in *Cyberpunk 2077* Reviews:
+![Photo3](https://github.com/rgenge/LaunchHacks-Hackaton-ML/blob/1b29d51c4e677e36ec80301236771d40ea360a7c/WordCloudExample.png "Word Cloud Image")
 - The program is divided into 2 parts: **Web-Scrapping** and **Sentiment Analysis**
 #### The Web Scrapping involves:
 1)  First, inserting the path of a given Metacritic review URL for a video game (e.g. "game/pc/cyberpunk-2077")
