@@ -62,8 +62,13 @@ python3 server.py
 ```
 6.  To use the sentiment analyzer:
 - First, open the page *127.0.0.1:5000* (as shown in example screenshot below) in your browser:
-  ![Photo1](https://github.com/rgenge/LaunchHacks-Hackaton-ML/blob/b0aa2532c4e4b82217ea1c23a70e4e1cad27bfd9/READMEPHOTO1.png "Photo 1")
+![Photo1](https://github.com/rgenge/LaunchHacks-Hackaton-ML/blob/b0aa2532c4e4b82217ea1c23a70e4e1cad27bfd9/READMEPHOTO1.png "Photo 1")
   
 - Next, choose a video game review page (e.g. the example paths shown in the HTML page) in the first submission box:
 
-- ![Photo2](https://github.com/rgenge/LaunchHacks-Hackaton-ML/blob/b0aa2532c4e4b82217ea1c23a70e4e1cad27bfd9/READMEPHOTO2.png "Photo 2")
+![Photo2](https://github.com/rgenge/LaunchHacks-Hackaton-ML/blob/b0aa2532c4e4b82217ea1c23a70e4e1cad27bfd9/READMEPHOTO2.png "Photo 2")
+- Now, wait a moment as the review data is extracted and saved as a *.csv* file into the same directory you used in your machine.
+- Once finished, it should notify you.
+- Then, using Jupyter notebook on your machine, run the `sentiment.ipynb` Notebook file using kernel.
+- The word clouds for "positive" and "negative" reviews will be outputted, assuming you installed all required Python packages correctly.
+- Voilà! You're done!
