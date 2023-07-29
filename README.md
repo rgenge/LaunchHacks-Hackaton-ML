@@ -61,5 +61,5 @@ pip install -r requirements.txt
 python3 server.py
 ```
 6.  To use the sentiment analyzer:
-- Open the page *127.0.0.1:5000* in your browser, then follow the instructions on the HTML page.
-<img src="https://imgur.com/a/eYSQRQS" height="100" width="100">
+- Open the page *127.0.0.1:5000* (as shown in example screenshot below) in your browser, then follow the instructions on the HTML page:
+  ![Photo1](https://github.com/rgenge/LaunchHacks-Hackaton-ML/blob/b0aa2532c4e4b82217ea1c23a70e4e1cad27bfd9/READMEPHOTO1.png "Photo 1")
