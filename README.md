@@ -2,7 +2,7 @@
 ## Project: Gaming Review Analysis
 
 ## Team Members: 
-### Atila Costa Almeida, Sham, Brandon Bayquen
+### Atila Costa Almeida (@rgenge), Shamairra (@ShamZoz), Brandon Bayquen (@bayquen)
 
 ## Description:
 - Python Machine-Learning project for the LaunchHacks Hackathon, July 2023.
