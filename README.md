@@ -38,7 +38,7 @@ pip install jupyter-notebook
 - MAC:
 ```
 pip install jupyter notebook
-# [To install Python for Windows, go to *https://www.python.org/downloads/*]
+# [To install Python for Mac, go to *https://www.python.org/downloads/*]
 ```
 
 3. After running make, you have to install Python package requirements using a command line (e.g. Your machine's terminal, Anaconda, etc):
